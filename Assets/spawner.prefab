@@ -45,8 +45,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objectToSpawn:
-  - {fileID: 9098313447683906997, guid: 3ea927faf40f2b141afc176d4eaaa93e, type: 3}
-  - {fileID: 3022568188736310495, guid: 2d9b86cee15220d438165d07fed1ff09, type: 3}
-  - {fileID: 8154262157738186497, guid: 358d676e76ec30842846316faa6e5415, type: 3}
+  - {fileID: 2931054470778981080}
+  - {fileID: 2931054470778981080}
+  - {fileID: 2931054470778981080}
   minSpawnTime: 0.5
   maxSpawnTime: 3

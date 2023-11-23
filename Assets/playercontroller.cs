@@ -10,7 +10,8 @@ public class Playercontroller : MonoBehaviour
     public LayerMask whatIsGround;
     float maxspeed = 8.0f;
     bool isOneGround = false;
-    float jumpForce = 5.0f;
+    float jumpForce = 9.0f;
+   
 
     //Create a refernce to the Rigidbody2D so we can manipulate it 
     Rigidbody2D playerObject;
@@ -38,9 +39,11 @@ public class Playercontroller : MonoBehaviour
         if ((isOneGround == true) && (Input.GetAxis("Jump") > 0.0f))
         {
             playerObject.AddForce(Vector2.up * jumpForce);
+
         }
-    }
+    } 
 }
+
       
 
 
