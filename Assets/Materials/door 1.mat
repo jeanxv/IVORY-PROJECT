@@ -7,12 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: BACK 1
-<<<<<<< HEAD
+  m_Name: door 1
   m_Shader: {fileID: 10800, guid: 0000000000000000f000000000000000, type: 0}
-=======
-  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
->>>>>>> aab3d1f836775b759b6b7d0d8ae3f046d6667e8c
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -27,13 +23,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-<<<<<<< HEAD
     - _AlphaTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-=======
->>>>>>> aab3d1f836775b759b6b7d0d8ae3f046d6667e8c
     - _BumpMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -55,7 +48,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: a55af12af0c8b1e4f9d3c07d1caa24a8, type: 3}
+        m_Texture: {fileID: 2800000, guid: 542f885db9f585547858ae8ce2c0e5ed, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -72,18 +65,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-<<<<<<< HEAD
     - PixelSnap: 0
-=======
->>>>>>> aab3d1f836775b759b6b7d0d8ae3f046d6667e8c
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-<<<<<<< HEAD
     - _EnableExternalAlpha: 0
-=======
->>>>>>> aab3d1f836775b759b6b7d0d8ae3f046d6667e8c
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
@@ -99,9 +86,6 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-<<<<<<< HEAD
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
-=======
->>>>>>> aab3d1f836775b759b6b7d0d8ae3f046d6667e8c
   m_BuildTextureStacks: []
